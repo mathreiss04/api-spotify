@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual env
+venv/
+.env
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
